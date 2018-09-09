@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "host": "mytestdb.c4fm28lwkm2e.us-east-1.rds.amazonaws.com",
+        "user": "root",
+        "password" : "anvesh2018",
+        "database": "vnrapp",
+        "driver": "mysql",
+        "multipleStatements": true
+    },
+    "test": {
+    	"host": "localhost",
+        "user": "root",
+        "password" : "toor",
+        "database": "vnrapp",
+        "driver": "mysql",
+        "multipleStatements": true
+    },
+    "prod": {
+    	"host": "localhost",
+        "user": "root",
+        "password" : "toor",
+        "database": "vnrapp",
+        "driver": "mysql",
+        "multipleStatements": true
+    }
+}
