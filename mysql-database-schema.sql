@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `vnrapp` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `vnrapp`;
+CREATE DATABASE  IF NOT EXISTS `nodeapp` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `nodeapp`;
 -- MySQL dump 10.13  Distrib 5.7.12, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: vnrapp
+-- Host: 127.0.0.1    Database: nodeapp
 -- ------------------------------------------------------
 -- Server version	5.7.17
 
