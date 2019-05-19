@@ -27,7 +27,7 @@ router.use(function (req, res, next) {
 
 // API Routes
 router.post('/api/createData', c_template.createData);
-router.post('/api/readData', c_template.readData);
+router.get('/api/readData', c_template.readData);
 router.post('/api/updateData', c_template.updateData);
 
 module.exports = router;
