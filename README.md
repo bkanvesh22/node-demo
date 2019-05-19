@@ -1,4 +1,4 @@
-# Node Demo Application
+# Node Web Application Demo
 
 This is a simple full stack web application using below technologies:
 * **Front End:** Bootstrap, HTML, CSS, JavaScript, jQuery, AJAX
